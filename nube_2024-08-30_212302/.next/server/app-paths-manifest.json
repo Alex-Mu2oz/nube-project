@@ -1,0 +1,14 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/CompanyName/page": "app/CompanyName/page.js",
+  "/DbListing/page": "app/DbListing/page.js",
+  "/api/performHighServerLoad/route": "app/api/performHighServerLoad/route.js",
+  "/api/test/route": "app/api/test/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/lambda/page": "app/lambda/page.js",
+  "/loadingStress/page": "app/loadingStress/page.js",
+  "/monitoring/page": "app/monitoring/page.js",
+  "/page": "app/page.js",
+  "/api/sendForm2Db/route": "app/api/sendForm2Db/route.js",
+  "/imagesBucket/page": "app/imagesBucket/page.js"
+}
